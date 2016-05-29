@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <item type="id" name="adViewPager" />
+        <item type="id" name="adImageView" />
+        <item type="id" name="adVideoView" />
+        
+        <item type="id" name="vp1" />
+        <item type="id" name="vp2" />
+        <item type="id" name="vp3" />
+        <item type="id" name="vp4" />
+        <item type="id" name="vp5" />
+        <item type="id" name="vp6" />
+        <item type="id" name="vp7" />
+        <item type="id" name="vp8" />
+        <item type="id" name="vp9" />
+        <item type="id" name="vp10" />
+        <item type="id" name="vp11" />
+        <item type="id" name="vp12" />
+        <item type="id" name="vp13" />
+        <item type="id" name="vp14" />
+        <item type="id" name="vp15" />
+        <item type="id" name="vp16" />
+        <item type="id" name="vp17" />
+        <item type="id" name="vp18" />
+        <item type="id" name="vp19" />
+        <item type="id" name="vp20" />
+        <item type="id" name="vp21" />
+        <item type="id" name="vp22" />
+        <item type="id" name="vp23" />
+        <item type="id" name="vp24" />
+        <item type="id" name="vp25" />
+        <item type="id" name="vp26" />
+        <item type="id" name="vp27" />
+        <item type="id" name="vp28" />
+        <item type="id" name="vp29" />
+        <item type="id" name="vp30" />
+        
+</resources>
